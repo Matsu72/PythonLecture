@@ -1,0 +1,10 @@
+version: '3'
+services:
+  python3:
+    build: .
+    container_name: 'py3-container'
+    working_dir: '/PythonLecture'
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/PythonLecture
