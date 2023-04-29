@@ -1,0 +1,12 @@
+You can write and read with w+ mode
+This should be the last line
+You can write and read with a+ mode
+This should be the last line
+You can write and read with a+ mode
+This should be the last line
+You can write and read with a+ mode
+This should be the last line
+You can write and read with a+ mode
+This should be the last line
+You can write and read with a+ mode
+This should be the last line
